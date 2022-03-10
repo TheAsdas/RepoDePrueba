@@ -1,0 +1,23 @@
+export enum InputTypes {
+  "button",
+  "checkbox",
+  "color",
+  "date",
+  "datetime-local",
+  "email",
+  "file",
+  "hidden",
+  "image",
+  "month",
+  "numbwe",
+  "password",
+  "radio",
+  "range",
+  "reset",
+  "search",
+  "tel",
+  "text",
+  "time",
+  "url",
+  "week"
+}
